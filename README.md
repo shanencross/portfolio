@@ -11,7 +11,7 @@
 
 ## Description
 
-Portfolio site developed as part of the Epicodus coding school curriculum. Lists information about myself and links to some of my coding projects.
+Practice portfolio site developed as part of the Epicodus coding school curriculum. Lists information about myself and links to some of my coding projects.
 
 ## Website URL
 
@@ -36,7 +36,7 @@ To modify the site locally:
 
 ## Known bugs
 
-Currently none known.
+None currently known.
 
 ## License
 
