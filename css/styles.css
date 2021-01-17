@@ -1,0 +1,22 @@
+#photo {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 250px;
+}
+
+body {
+	background-color: #1d4350;
+	color: rgba(255, 255, 255, 0.705);
+}
+
+h1 {
+	color:rgb(121, 175, 40);
+	text-align: center;
+	text-decoration: underline;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+	font-style: italic;
+}
